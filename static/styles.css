@@ -1,0 +1,9 @@
+#messages,#channelList,#inbox {
+  overflow: auto ;
+}
+#channelList li:hover,#inbox li:hover,kbd:hover, .text-danger:hover {
+  cursor: pointer;
+}
+li {
+  list-style-type: none;
+}
